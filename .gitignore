@@ -1,0 +1,17 @@
+#for future reference
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# IntelliJ/PyCharm files
+.idea/
